@@ -1,4 +1,5 @@
 num=4
-print(num)
+num2= 4+2
+print(num2)
 
 
